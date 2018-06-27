@@ -1,3 +1,8 @@
+# Custom Ignore file
+
+cfg_secret_*_configuration.py
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
